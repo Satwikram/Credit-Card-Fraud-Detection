@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3624dafe-3ae9-4d28-bfac-261bc4e61594" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruad/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruad/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruad/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruad/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +53,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="564" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594193516035" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1594146091156">
+    <state x="184" y="8" key="SettingsEditor" timestamp="1594202867123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594146091156" />
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594202867123" />
   </component>
 </project>
