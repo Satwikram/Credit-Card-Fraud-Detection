@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3624dafe-3ae9-4d28-bfac-261bc4e61594" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruad/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruad/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +45,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1594146101511">
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1594202946536">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594146101511" />
-    <state x="564" y="84" key="RollbackChangesDialog" timestamp="1594193516035">
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594202946536" />
+    <state x="564" y="84" key="RollbackChangesDialog" timestamp="1594203136756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="564" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594193516035" />
+    <state x="564" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594203136756" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1594202867123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
