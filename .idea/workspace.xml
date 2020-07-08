@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3624dafe-3ae9-4d28-bfac-261bc4e61594" name="Default Changelist" comment="" />
+    <list default="true" id="3624dafe-3ae9-4d28-bfac-261bc4e61594" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fruad/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruad/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruad/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1eMyoWunXFbUBUe2N36f7YNLW53" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
