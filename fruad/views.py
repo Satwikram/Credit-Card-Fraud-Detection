@@ -15,8 +15,8 @@ def predict(request):
 
         time = float(request.POST['time'])
         amount = float(request.POST['amount'])
-        time = scaler.fit_transform(np.array([time]))
-        amount = scaler.fit_transform(np.array([amount]))
+        time1 = scaler.fit_transform(np.array([time]))
+        amount1 = scaler.fit_transform(np.array([amount]))
         v1 = float(request.POST['v1'])
         v2 = float(request.POST['v2'])
         v3 = float(request.POST['v3'])
@@ -46,7 +46,7 @@ def predict(request):
         v27 = float(request.POST['v27'])
         v28 = float(request.POST['v28'])
 
-        pred = model.predict(np.array([time, amount, v1, v2, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14,
+        pred = model.predict(np.array([time1, amount1, v1, v2, v4, v5, v6, v7, v8, v9, v10, v11, v12, v13, v14,
                                        v15, v16, v17, v18, v19, v20, v21, v22, v23, v24, v25, v26, v27, v28]))
 
 
